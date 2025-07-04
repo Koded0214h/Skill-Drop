@@ -1,0 +1,50 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+build/
+dist/
+.next/
+out/
+coverage/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Smart contracts (Hardhat/Truffle)
+smart-contracts/artifacts/
+smart-contracts/cache/
+smart-contracts/node_modules/
+smart-contracts/.env
+smart-contracts/.env.*
+
+# Frontend (if exists)
+frontend/node_modules/
+frontend/.env
+frontend/.env.*
+frontend/build/
+frontend/dist/
+
+# Backend (if exists)
+backend/node_modules/
+backend/.env
+backend/.env.*
+backend/build/
+backend/dist/
+
+# Misc
+*.log
+*.tsbuildinfo
+.idea/
+.vscode/ 

@@ -1,0 +1,11 @@
+smart-contracts/
+├── blockchain/
+│   ├── contracts/
+│   │   └── SkillBadgeNFT.sol
+│   ├── test/
+│   │   └── Lock.js
+│   ├── hardhat.config.js
+│   └── README.md
+├── node_modules/ (many packages, omitted for brevity)
+├── package.json
+└── package-lock.json 
