@@ -47,4 +47,7 @@ backend/dist/
 *.log
 *.tsbuildinfo
 .idea/
-.vscode/ 
+.vscode/
+
+# Added from the code block
+__pycache__/ 
