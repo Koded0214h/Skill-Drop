@@ -1,6 +1,6 @@
 # Skill Drop
 
-Skill Drop is a full-stack application that leverages blockchain technology to issue and manage skill-based NFTs. The project is organized into three main components: backend, frontend, and smart-contracts.
+SkillDrop is a platform that connects students to real-world mini-projects (gigs) posted by startups, NGOs, and local businesses. Built with Django and Web3, it features gig applications, CV uploads, employer feedback, and on-chain skill badges.
 
 ## Project Structure
 
